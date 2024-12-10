@@ -1,0 +1,25 @@
+.produits-container {
+    padding: 2rem;
+  }
+  
+  .produits-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .produit-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .produit-image {
+    width: 100%;
+    max-width: 150px;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+  }
+  
