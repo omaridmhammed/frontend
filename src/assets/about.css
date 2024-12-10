@@ -1,0 +1,12 @@
+.about-container {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .about-image {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 1rem;
+    border-radius: 10px;
+  }
+  
