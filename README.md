@@ -1,29 +1,34 @@
-# Gestion_recettes
+git clone https://github.com/omaridmhammed/frontend.git
 
-This template should help get you started developing with Vue 3 in Vite.
+ 
+# Projet Frontend
+ 
+Ce projet est une interface frontend pour la gestion des recettes.
+ 
+## Fonctionnalités
 
-## Recommended IDE Setup
+- Interface utilisateur intuitive
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Gestion facile des recettes
 
-## Customize configuration
+- Intégration avec des API backend
+ 
+## Technologies utilisées
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- HTML
 
-## Project Setup
+- CSS
 
-```sh
-npm install
-```
+- JavaScript
+ 
+## Installation
 
-### Compile and Hot-Reload for Development
+1. Clonez le dépôt :
 
-```sh
-npm run dev
-```
+   ```bash
 
-### Compile and Minify for Production
+   git clone https://github.com/omaridmhammed/frontend.git
 
-```sh
-npm run build
-```
+GitHub - omaridmhammed/frontend
+Contribute to omaridmhammed/frontend development by creating an account on GitHub.
+ 
