@@ -32,3 +32,7 @@ Ce projet est une interface frontend pour la gestion des recettes.
 GitHub - omaridmhammed/frontend
 Contribute to omaridmhammed/frontend development by creating an account on GitHub.
  
+## Prochaines Étapes
+- Ajouter des notifications utilisateur.
+- Intégrer des tests end-to-end (E2E).
+- Optimiser les performances pour les mobiles.
